@@ -13,5 +13,5 @@ tags: juegos,mierda
 
 Contenido del about
 
-hola danielo
+hola gumy
 
